@@ -1,6 +1,6 @@
 <h1 align="center">rhoCentralFoamHEM<h1>
 
-## rhoCentralFoamHEM  rhoCentralFoam solver with Homogeneous equilibrium model.
+### rhoCentralFoamHEM  rhoCentralFoam solver with Homogeneous equilibrium model.
 
 
 ## The homogeneous equilibrium model assumes both thermal and mechanical equilibrium.
